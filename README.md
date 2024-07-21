@@ -14,10 +14,11 @@
 
 - No Aplicativo tudo foi feito com instalações ambientes para priorizar o Isolamento, Reprodutibilidade, Gestao de Depêndencias, Segurança e Facilidade de Desenvolvimento.
 - Foi utilizado também o Git para Controle de Versão, Colaboração, Rastreabilidade, Ramo e Mesclaem, Segurança e Flexibilidade. Juntamente com os Requirements, não esqueçam de instalar!
+- Caso esteja fazendo mais de uma função enquanto executa o app, ele continuará executando sem nenhum defeito.. sinta-se a vontade para trabalhar/mexer enquanto o executa!
 
   # Para instalar os Requisitos:
 
-  ** pip install -r requirements.txt **
+  **pip install -r requirements.txt**
 
 # Técnologias Utilizadas:
 ### Python, Selenium e Git
