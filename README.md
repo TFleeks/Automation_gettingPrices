@@ -6,6 +6,7 @@
 ![exemplo_dolar](https://github.com/user-attachments/assets/8ecd278a-0111-4a54-9484-311e83f5fa76)
 
 - Depois irá fazer a mesma coisa, porém pesquisando o Euro como no exemplo abaixo:
+<p></p>
   ![exemplo_Euro](https://github.com/user-attachments/assets/1d2a1e4d-cd90-4573-8f2b-32fd0cfa8986)
 
 - Em seguida ele fechará automaticamente e retornará o valor preciso da cotação atual de ambos
