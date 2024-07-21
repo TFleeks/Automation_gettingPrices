@@ -17,7 +17,7 @@
 
   # Para instalar os Requisitos:
 
-  ### pip install -r requirements.txt ###
+  ** pip install -r requirements.txt **
 
 # Técnologias Utilizadas:
 ### Python, Selenium e Git
